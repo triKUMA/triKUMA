@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @triKUMA
 - 👀 I’m interested in things.
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Web Development.
 
 <!---
 triKUMA/triKUMA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
